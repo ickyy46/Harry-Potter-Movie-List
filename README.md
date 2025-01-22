@@ -18,3 +18,9 @@ Docker: To containerize the application for consistent deployment.
 -Farah Waheeda 
 
 -Arissa Binti Amar Az
+
+-Che Maisarah Elisa
+
+-Huda Deeny
+
+-Deanna SoFea
