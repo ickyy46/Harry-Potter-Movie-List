@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f8ff;
+  }
+  
+  header {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .movie-list {
+    margin: 1rem;
+  }
+  
+  .movie {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
