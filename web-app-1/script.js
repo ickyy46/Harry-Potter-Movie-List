@@ -1,1 +1,0 @@
-console.log("Web App 1: Harry Potter Movie List");
